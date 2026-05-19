@@ -1,0 +1,211 @@
+[
+  {
+    "team": "Illinois",
+    "odds_normalized": 0.0303,
+    "sp_plus_normalized": 0.5255,
+    "elo_normalized": 0.3504,
+    "composite_raw": 0.2837,
+    "new_coach_2026": false,
+    "elo_2025_raw": 1583,
+    "sp_plus_2025_raw": 12.9,
+    "composite_score": 0.271
+  },
+  {
+    "team": "Indiana",
+    "odds_normalized": 0.9393,
+    "sp_plus_normalized": 1.0,
+    "elo_normalized": 0.9488,
+    "composite_raw": 0.9629,
+    "new_coach_2026": false,
+    "elo_2025_raw": 2191,
+    "sp_plus_2025_raw": 32.4,
+    "composite_score": 1.0
+  },
+  {
+    "team": "Iowa",
+    "odds_normalized": 0.0531,
+    "sp_plus_normalized": 0.691,
+    "elo_normalized": 0.6949,
+    "composite_raw": 0.4368,
+    "new_coach_2026": false,
+    "elo_2025_raw": 1933,
+    "sp_plus_2025_raw": 19.7,
+    "composite_score": 0.4353
+  },
+  {
+    "team": "Maryland",
+    "odds_normalized": 0.0303,
+    "sp_plus_normalized": 0.2263,
+    "elo_normalized": 0.1575,
+    "composite_raw": 0.1307,
+    "new_coach_2026": false,
+    "elo_2025_raw": 1387,
+    "sp_plus_2025_raw": 0.6,
+    "composite_score": 0.1068
+  },
+  {
+    "team": "Michigan",
+    "odds_normalized": 0.1743,
+    "sp_plus_normalized": 0.5134,
+    "elo_normalized": 0.5778,
+    "composite_raw": 0.3864,
+    "new_coach_2026": true,
+    "elo_2025_raw": 1814,
+    "sp_plus_2025_raw": 12.4,
+    "composite_score": 0.3812
+  },
+  {
+    "team": "Michigan State",
+    "odds_normalized": 0.0379,
+    "sp_plus_normalized": 0.129,
+    "elo_normalized": 0.1791,
+    "composite_raw": 0.0977,
+    "new_coach_2026": true,
+    "elo_2025_raw": 1409,
+    "sp_plus_2025_raw": -3.4,
+    "composite_score": 0.0714
+  },
+  {
+    "team": "Minnesota",
+    "odds_normalized": 0.0454,
+    "sp_plus_normalized": 0.2482,
+    "elo_normalized": 0.2785,
+    "composite_raw": 0.1747,
+    "new_coach_2026": false,
+    "elo_2025_raw": 1510,
+    "sp_plus_2025_raw": 1.5,
+    "composite_score": 0.154
+  },
+  {
+    "team": "Nebraska",
+    "odds_normalized": 0.0531,
+    "sp_plus_normalized": 0.3625,
+    "elo_normalized": 0.3474,
+    "composite_raw": 0.235,
+    "new_coach_2026": false,
+    "elo_2025_raw": 1580,
+    "sp_plus_2025_raw": 6.2,
+    "composite_score": 0.2187
+  },
+  {
+    "team": "Northwestern",
+    "odds_normalized": 0.0228,
+    "sp_plus_normalized": 0.3528,
+    "elo_normalized": 0.2923,
+    "composite_raw": 0.2057,
+    "new_coach_2026": false,
+    "elo_2025_raw": 1524,
+    "sp_plus_2025_raw": 5.8,
+    "composite_score": 0.1873
+  },
+  {
+    "team": "Notre Dame",
+    "odds_normalized": 0.0,
+    "sp_plus_normalized": 0.8054,
+    "elo_normalized": 1.0,
+    "composite_raw": 0.5319,
+    "new_coach_2026": false,
+    "elo_2025_raw": 2243,
+    "sp_plus_2025_raw": 24.4,
+    "composite_score": 0.5374
+  },
+  {
+    "team": "Ohio State",
+    "odds_normalized": 1.0,
+    "sp_plus_normalized": 0.944,
+    "elo_normalized": 0.9272,
+    "composite_raw": 0.9622,
+    "new_coach_2026": false,
+    "elo_2025_raw": 2169,
+    "sp_plus_2025_raw": 30.1,
+    "composite_score": 0.9992
+  },
+  {
+    "team": "Oregon",
+    "odds_normalized": 0.7121,
+    "sp_plus_normalized": 0.8418,
+    "elo_normalized": 0.8465,
+    "composite_raw": 0.7911,
+    "new_coach_2026": false,
+    "elo_2025_raw": 2087,
+    "sp_plus_2025_raw": 25.9,
+    "composite_score": 0.8156
+  },
+  {
+    "team": "Penn State",
+    "odds_normalized": 0.1137,
+    "sp_plus_normalized": 0.6521,
+    "elo_normalized": 0.7126,
+    "composite_raw": 0.4444,
+    "new_coach_2026": true,
+    "elo_2025_raw": 1951,
+    "sp_plus_2025_raw": 18.1,
+    "composite_score": 0.4435
+  },
+  {
+    "team": "Purdue",
+    "odds_normalized": 0.0228,
+    "sp_plus_normalized": 0.0633,
+    "elo_normalized": 0.0,
+    "composite_raw": 0.0312,
+    "new_coach_2026": false,
+    "elo_2025_raw": 1227,
+    "sp_plus_2025_raw": -6.1,
+    "composite_score": 0.0
+  },
+  {
+    "team": "Rutgers",
+    "odds_normalized": 0.0228,
+    "sp_plus_normalized": 0.236,
+    "elo_normalized": 0.2382,
+    "composite_raw": 0.1513,
+    "new_coach_2026": false,
+    "elo_2025_raw": 1469,
+    "sp_plus_2025_raw": 1,
+    "composite_score": 0.1289
+  },
+  {
+    "team": "UCLA",
+    "odds_normalized": 0.0454,
+    "sp_plus_normalized": 0.0,
+    "elo_normalized": 0.0935,
+    "composite_raw": 0.0342,
+    "new_coach_2026": true,
+    "elo_2025_raw": 1322,
+    "sp_plus_2025_raw": -8.7,
+    "composite_score": 0.0032
+  },
+  {
+    "team": "USC",
+    "odds_normalized": 0.2045,
+    "sp_plus_normalized": 0.6229,
+    "elo_normalized": 0.6516,
+    "composite_raw": 0.4627,
+    "new_coach_2026": false,
+    "elo_2025_raw": 1889,
+    "sp_plus_2025_raw": 16.9,
+    "composite_score": 0.4631
+  },
+  {
+    "team": "Washington",
+    "odds_normalized": 0.0379,
+    "sp_plus_normalized": 0.6594,
+    "elo_normalized": 0.565,
+    "composite_raw": 0.3872,
+    "new_coach_2026": false,
+    "elo_2025_raw": 1801,
+    "sp_plus_2025_raw": 18.4,
+    "composite_score": 0.3821
+  },
+  {
+    "team": "Wisconsin",
+    "odds_normalized": 0.0682,
+    "sp_plus_normalized": 0.1046,
+    "elo_normalized": 0.2707,
+    "composite_raw": 0.1316,
+    "new_coach_2026": false,
+    "elo_2025_raw": 1502,
+    "sp_plus_2025_raw": -4.4,
+    "composite_score": 0.1078
+  }
+]

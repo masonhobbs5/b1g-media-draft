@@ -1,0 +1,230 @@
+{
+  "team_brands": {
+    "Illinois": {
+      "team": "Illinois",
+      "avg_viewers_millions": 1.279,
+      "appearances": 42,
+      "total_viewers_millions": 53.707
+    },
+    "Indiana": {
+      "team": "Indiana",
+      "avg_viewers_millions": 2.652,
+      "appearances": 23,
+      "total_viewers_millions": 61.001
+    },
+    "Iowa": {
+      "team": "Iowa",
+      "avg_viewers_millions": 2.112,
+      "appearances": 53,
+      "total_viewers_millions": 111.961
+    },
+    "Maryland": {
+      "team": "Maryland",
+      "avg_viewers_millions": 1.171,
+      "appearances": 23,
+      "total_viewers_millions": 26.934
+    },
+    "Michigan": {
+      "team": "Michigan",
+      "avg_viewers_millions": 3.911,
+      "appearances": 57,
+      "total_viewers_millions": 222.902
+    },
+    "Michigan State": {
+      "team": "Michigan State",
+      "avg_viewers_millions": 1.629,
+      "appearances": 22,
+      "total_viewers_millions": 35.834
+    },
+    "Minnesota": {
+      "team": "Minnesota",
+      "avg_viewers_millions": 1.589,
+      "appearances": 26,
+      "total_viewers_millions": 41.321
+    },
+    "Nebraska": {
+      "team": "Nebraska",
+      "avg_viewers_millions": 2.954,
+      "appearances": 28,
+      "total_viewers_millions": 82.719
+    },
+    "Northwestern": {
+      "team": "Northwestern",
+      "avg_viewers_millions": 0.87,
+      "appearances": 25,
+      "total_viewers_millions": 21.74
+    },
+    "Notre Dame": {
+      "team": "Notre Dame",
+      "avg_viewers_millions": 3.909,
+      "appearances": 31,
+      "total_viewers_millions": 121.18
+    },
+    "Ohio State": {
+      "team": "Ohio State",
+      "avg_viewers_millions": 4.998,
+      "appearances": 51,
+      "total_viewers_millions": 254.908
+    },
+    "Oregon": {
+      "team": "Oregon",
+      "avg_viewers_millions": 2.571,
+      "appearances": 49,
+      "total_viewers_millions": 125.983
+    },
+    "Penn State": {
+      "team": "Penn State",
+      "avg_viewers_millions": 3.874,
+      "appearances": 32,
+      "total_viewers_millions": 123.954
+    },
+    "Purdue": {
+      "team": "Purdue",
+      "avg_viewers_millions": 1.355,
+      "appearances": 21,
+      "total_viewers_millions": 28.457
+    },
+    "Rutgers": {
+      "team": "Rutgers",
+      "avg_viewers_millions": 1.325,
+      "appearances": 21,
+      "total_viewers_millions": 27.816
+    },
+    "UCLA": {
+      "team": "UCLA",
+      "avg_viewers_millions": 1.746,
+      "appearances": 28,
+      "total_viewers_millions": 48.896
+    },
+    "USC": {
+      "team": "USC",
+      "avg_viewers_millions": 3.466,
+      "appearances": 27,
+      "total_viewers_millions": 93.583
+    },
+    "Washington": {
+      "team": "Washington",
+      "avg_viewers_millions": 1.795,
+      "appearances": 48,
+      "total_viewers_millions": 86.141
+    },
+    "Wisconsin": {
+      "team": "Wisconsin",
+      "avg_viewers_millions": 2.018,
+      "appearances": 29,
+      "total_viewers_millions": 58.508
+    }
+  },
+  "week_multipliers": {
+    "1": {
+      "week": 1,
+      "avg_viewers_millions": 3.104,
+      "game_count": 34,
+      "multiplier": 1.071
+    },
+    "2": {
+      "week": 2,
+      "avg_viewers_millions": 2.798,
+      "game_count": 24,
+      "multiplier": 0.965
+    },
+    "3": {
+      "week": 3,
+      "avg_viewers_millions": 2.185,
+      "game_count": 15,
+      "multiplier": 0.754
+    },
+    "4": {
+      "week": 4,
+      "avg_viewers_millions": 2.84,
+      "game_count": 25,
+      "multiplier": 0.98
+    },
+    "5": {
+      "week": 5,
+      "avg_viewers_millions": 3.564,
+      "game_count": 15,
+      "multiplier": 1.229
+    },
+    "6": {
+      "week": 6,
+      "avg_viewers_millions": 2.326,
+      "game_count": 21,
+      "multiplier": 0.802
+    },
+    "7": {
+      "week": 7,
+      "avg_viewers_millions": 2.181,
+      "game_count": 14,
+      "multiplier": 0.752
+    },
+    "8": {
+      "week": 8,
+      "avg_viewers_millions": 2.058,
+      "game_count": 26,
+      "multiplier": 0.71
+    },
+    "9": {
+      "week": 9,
+      "avg_viewers_millions": 2.248,
+      "game_count": 23,
+      "multiplier": 0.775
+    },
+    "10": {
+      "week": 10,
+      "avg_viewers_millions": 2.957,
+      "game_count": 20,
+      "multiplier": 1.02
+    },
+    "11": {
+      "week": 11,
+      "avg_viewers_millions": 2.84,
+      "game_count": 21,
+      "multiplier": 0.98
+    },
+    "12": {
+      "week": 12,
+      "avg_viewers_millions": 2.267,
+      "game_count": 22,
+      "multiplier": 0.782
+    },
+    "13": {
+      "week": 13,
+      "avg_viewers_millions": 4.342,
+      "game_count": 22,
+      "multiplier": 1.498
+    },
+    "14": {
+      "week": 14,
+      "avg_viewers_millions": 3.979,
+      "game_count": 29,
+      "multiplier": 1.372
+    },
+    "15": {
+      "week": 15,
+      "avg_viewers_millions": 10.5,
+      "game_count": 1,
+      "multiplier": 3.622
+    }
+  },
+  "slot_multipliers": {
+    "noon": {
+      "slot": "noon",
+      "avg_viewers_millions": 3.317,
+      "game_count": 145,
+      "multiplier": 1.144
+    },
+    "afternoon": {
+      "slot": "afternoon",
+      "avg_viewers_millions": 2.636,
+      "game_count": 98,
+      "multiplier": 0.909
+    },
+    "primetime": {
+      "slot": "primetime",
+      "avg_viewers_millions": 2.396,
+      "game_count": 69,
+      "multiplier": 0.826
+    }
+  }
+}

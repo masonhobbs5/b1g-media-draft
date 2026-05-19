@@ -1,0 +1,37 @@
+# ─── Data Acquisition ─────────────────────────────────────────────────────────
+cfbd==5.13.2                  # CollegeFootballData.com official Python SDK
+requests==2.32.3             # HTTP calls (Odds API, ESPN API, SMW scraping)
+beautifulsoup4==4.12.3       # HTML parsing for Sports Media Watch scraper
+lxml==5.2.2                  # Fast HTML/XML parser backend for BeautifulSoup
+
+# ─── Data Handling ────────────────────────────────────────────────────────────
+pandas==2.2.2                # Schedule matrix, viewership tables, output DataFrames
+numpy==2.0.0                 # Array ops, random draws, probability computations
+python-dotenv==1.0.1         # Load API keys from .env without hardcoding
+
+# ─── Simulation Engine ────────────────────────────────────────────────────────
+scipy==1.13.1                # Statistical distributions for team quality sampling
+numba==0.60.0                # JIT-compile inner simulation loop for speed
+joblib==1.4.2                # Parallel outer loop across CPU cores
+
+# ─── Validation & Calibration ─────────────────────────────────────────────────
+scikit-learn==1.5.1          # K-means clustering for scenario grouping, Brier score
+
+# ─── Visualization & Output ───────────────────────────────────────────────────
+plotly==5.22.0               # Interactive heatmaps, probability matrices
+kaleido==0.2.1               # Static image export from Plotly (for reports)
+streamlit==1.36.0            # Interactive results dashboard
+
+# ─── Notebooks ────────────────────────────────────────────────────────────────
+jupyter==1.0.0               # Exploration notebooks
+ipykernel==6.29.5            # Jupyter kernel for the venv
+
+# ─── Testing ──────────────────────────────────────────────────────────────────
+pytest==8.2.2
+pytest-cov==5.0.0            # Coverage reports
+responses==0.25.3            # Mock HTTP responses for acquisition tests
+
+# ─── Code Quality ─────────────────────────────────────────────────────────────
+black==24.4.2                # Formatter
+ruff==0.4.10                 # Fast linter (replaces flake8 + isort)
+mypy==1.10.1                 # Type checking

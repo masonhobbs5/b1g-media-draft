@@ -1,0 +1,58 @@
+{
+  "cv_results": {
+    "folds": [
+      {
+        "held_out_season": 2023,
+        "n_train": 186,
+        "n_test": 126,
+        "r_squared": 0.4946,
+        "mape": 149.14,
+        "rmse": 2.228
+      },
+      {
+        "held_out_season": 2024,
+        "n_train": 197,
+        "n_test": 115,
+        "r_squared": 0.34,
+        "mape": 495.47,
+        "rmse": 2.194
+      },
+      {
+        "held_out_season": 2025,
+        "n_train": 241,
+        "n_test": 71,
+        "r_squared": 0.3942,
+        "mape": 102.9,
+        "rmse": 2.802
+      }
+    ],
+    "overall_r_squared": 0.433,
+    "overall_mape": 266.27,
+    "overall_rmse": 2.359
+  },
+  "model_r_squared": 0.49564670834428637,
+  "model_mape": 242.41221206606926,
+  "coefficients": {
+    "combined_brand": 1.2611,
+    "max_brand": 0.014,
+    "combined_elo": 0.9742,
+    "elo_closeness": 0.5442,
+    "week_multiplier": 0.4252,
+    "slot_multiplier": 0.1273,
+    "is_rivalry": 0.0105,
+    "is_conference_game": -0.2498
+  },
+  "intercept": 2.8991346153846203,
+  "n_training_samples": 312,
+  "feature_columns": [
+    "combined_brand",
+    "max_brand",
+    "combined_elo",
+    "elo_closeness",
+    "week_multiplier",
+    "slot_multiplier",
+    "is_rivalry",
+    "is_conference_game"
+  ],
+  "ridge_alpha": 10.0
+}

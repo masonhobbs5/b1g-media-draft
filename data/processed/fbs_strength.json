@@ -1,0 +1,1130 @@
+[
+  {
+    "team": "Ohio State",
+    "sp_plus_2026": 31.8,
+    "elo_2025": 2138,
+    "odds_2026": 550,
+    "source": "fbs_2026_model",
+    "composite_score": 1.0
+  },
+  {
+    "team": "Notre Dame",
+    "sp_plus_2026": 25.8,
+    "elo_2025": 2243,
+    "odds_2026": 700,
+    "source": "fbs_2026_model",
+    "composite_score": 0.9187
+  },
+  {
+    "team": "Indiana",
+    "sp_plus_2026": 24.5,
+    "elo_2025": 2346,
+    "odds_2026": 800,
+    "source": "fbs_2026_model",
+    "composite_score": 0.9009
+  },
+  {
+    "team": "Oregon",
+    "sp_plus_2026": 28.3,
+    "elo_2025": 2071,
+    "odds_2026": 850,
+    "source": "fbs_2026_model",
+    "composite_score": 0.8777
+  },
+  {
+    "team": "Georgia",
+    "sp_plus_2026": 25.5,
+    "elo_2025": 2057,
+    "odds_2026": 900,
+    "source": "fbs_2026_model",
+    "composite_score": 0.8436
+  },
+  {
+    "team": "Texas",
+    "sp_plus_2026": 23.7,
+    "elo_2025": 1926,
+    "odds_2026": 750,
+    "source": "fbs_2026_model",
+    "composite_score": 0.8381
+  },
+  {
+    "team": "Miami",
+    "sp_plus_2026": 21.0,
+    "elo_2025": 2014,
+    "odds_2026": 1200,
+    "source": "fbs_2026_model",
+    "composite_score": 0.7606
+  },
+  {
+    "team": "Texas Tech",
+    "sp_plus_2026": 23.1,
+    "elo_2025": 2056,
+    "odds_2026": 1500,
+    "source": "fbs_2026_model",
+    "composite_score": 0.7598
+  },
+  {
+    "team": "Texas A&M",
+    "sp_plus_2026": 20.3,
+    "elo_2025": 1872,
+    "odds_2026": 2000,
+    "source": "fbs_2026_model",
+    "composite_score": 0.682
+  },
+  {
+    "team": "Ole Miss",
+    "sp_plus_2026": 15.9,
+    "elo_2025": 2009,
+    "odds_2026": 2200,
+    "source": "fbs_2026_model",
+    "composite_score": 0.6611
+  },
+  {
+    "team": "Alabama",
+    "sp_plus_2026": 18.2,
+    "elo_2025": 1857,
+    "odds_2026": 2500,
+    "source": "fbs_2026_model",
+    "composite_score": 0.6468
+  },
+  {
+    "team": "LSU",
+    "sp_plus_2026": 20.2,
+    "elo_2025": 1675,
+    "odds_2026": 2200,
+    "source": "fbs_2026_model",
+    "composite_score": 0.6424
+  },
+  {
+    "team": "Oklahoma",
+    "sp_plus_2026": 17.2,
+    "elo_2025": 1810,
+    "odds_2026": 3000,
+    "source": "fbs_2026_model",
+    "composite_score": 0.6205
+  },
+  {
+    "team": "USC",
+    "sp_plus_2026": 16.8,
+    "elo_2025": 1871,
+    "odds_2026": 4000,
+    "source": "fbs_2026_model",
+    "composite_score": 0.6136
+  },
+  {
+    "team": "Michigan",
+    "sp_plus_2026": 16.1,
+    "elo_2025": 1786,
+    "odds_2026": 3500,
+    "source": "fbs_2026_model",
+    "composite_score": 0.5952
+  },
+  {
+    "team": "Tennessee",
+    "sp_plus_2026": 16.0,
+    "elo_2025": 1787,
+    "odds_2026": 4500,
+    "source": "fbs_2026_model",
+    "composite_score": 0.589
+  },
+  {
+    "team": "Penn State",
+    "sp_plus_2026": 15.7,
+    "elo_2025": 1954,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.5827
+  },
+  {
+    "team": "Iowa",
+    "sp_plus_2026": 13.6,
+    "elo_2025": 1937,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.5677
+  },
+  {
+    "team": "Washington",
+    "sp_plus_2026": 14.5,
+    "elo_2025": 1866,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.5637
+  },
+  {
+    "team": "Utah",
+    "sp_plus_2026": 11.9,
+    "elo_2025": 1976,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.5601
+  },
+  {
+    "team": "Missouri",
+    "sp_plus_2026": 14.8,
+    "elo_2025": 1750,
+    "odds_2026": 7500,
+    "source": "fbs_2026_model",
+    "composite_score": 0.5587
+  },
+  {
+    "team": "BYU",
+    "sp_plus_2026": 15.5,
+    "elo_2025": 1750,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.5532
+  },
+  {
+    "team": "Florida",
+    "sp_plus_2026": 14.9,
+    "elo_2025": 1593,
+    "odds_2026": 5000,
+    "source": "fbs_2026_model",
+    "composite_score": 0.5453
+  },
+  {
+    "team": "SMU",
+    "sp_plus_2026": 10.9,
+    "elo_2025": 1852,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.5321
+  },
+  {
+    "team": "Clemson",
+    "sp_plus_2026": 12.8,
+    "elo_2025": 1755,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.532
+  },
+  {
+    "team": "Vanderbilt",
+    "sp_plus_2026": 10.0,
+    "elo_2025": 1880,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.5293
+  },
+  {
+    "team": "South Carolina",
+    "sp_plus_2026": 12.1,
+    "elo_2025": 1697,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.517
+  },
+  {
+    "team": "Louisville",
+    "sp_plus_2026": 11.0,
+    "elo_2025": 1749,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.5164
+  },
+  {
+    "team": "Auburn",
+    "sp_plus_2026": 11.2,
+    "elo_2025": 1670,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.5053
+  },
+  {
+    "team": "Arizona",
+    "sp_plus_2026": 10.2,
+    "elo_2025": 1688,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.5001
+  },
+  {
+    "team": "Kansas State",
+    "sp_plus_2026": 10.4,
+    "elo_2025": 1674,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.4994
+  },
+  {
+    "team": "TCU",
+    "sp_plus_2026": 9.1,
+    "elo_2025": 1670,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.4882
+  },
+  {
+    "team": "Illinois",
+    "sp_plus_2026": 9.3,
+    "elo_2025": 1595,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.4778
+  },
+  {
+    "team": "Florida State",
+    "sp_plus_2026": 8.8,
+    "elo_2025": 1556,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.4675
+  },
+  {
+    "team": "Virginia",
+    "sp_plus_2026": 6.6,
+    "elo_2025": 1637,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.4626
+  },
+  {
+    "team": "Nebraska",
+    "sp_plus_2026": 7.7,
+    "elo_2025": 1558,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.4588
+  },
+  {
+    "team": "Pittsburgh",
+    "sp_plus_2026": 6.5,
+    "elo_2025": 1614,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.458
+  },
+  {
+    "team": "Arizona State",
+    "sp_plus_2026": 6.4,
+    "elo_2025": 1609,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.4564
+  },
+  {
+    "team": "Houston",
+    "sp_plus_2026": 8.2,
+    "elo_2025": 1512,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.4555
+  },
+  {
+    "team": "Duke",
+    "sp_plus_2026": 5.7,
+    "elo_2025": 1622,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.4528
+  },
+  {
+    "team": "Georgia Tech",
+    "sp_plus_2026": 6.0,
+    "elo_2025": 1595,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.4509
+  },
+  {
+    "team": "Boise State",
+    "sp_plus_2026": 6.8,
+    "elo_2025": 1594,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.4477
+  },
+  {
+    "team": "Virginia Tech",
+    "sp_plus_2026": 9.4,
+    "elo_2025": 1382,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.4444
+  },
+  {
+    "team": "NC State",
+    "sp_plus_2026": 4.9,
+    "elo_2025": 1605,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.4436
+  },
+  {
+    "team": "Arkansas",
+    "sp_plus_2026": 5.0,
+    "elo_2025": 1571,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.4389
+  },
+  {
+    "team": "Northwestern",
+    "sp_plus_2026": 4.6,
+    "elo_2025": 1574,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.4362
+  },
+  {
+    "team": "Minnesota",
+    "sp_plus_2026": 5.2,
+    "elo_2025": 1516,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.4317
+  },
+  {
+    "team": "James Madison",
+    "sp_plus_2026": -2.1,
+    "elo_2025": 1905,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.4251
+  },
+  {
+    "team": "Baylor",
+    "sp_plus_2026": 4.5,
+    "elo_2025": 1509,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.4249
+  },
+  {
+    "team": "Wake Forest",
+    "sp_plus_2026": 3.6,
+    "elo_2025": 1531,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.4211
+  },
+  {
+    "team": "UNLV",
+    "sp_plus_2026": 2.8,
+    "elo_2025": 1622,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.4196
+  },
+  {
+    "team": "Kansas",
+    "sp_plus_2026": 3.7,
+    "elo_2025": 1516,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.4195
+  },
+  {
+    "team": "Cincinnati",
+    "sp_plus_2026": 4.5,
+    "elo_2025": 1471,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.4188
+  },
+  {
+    "team": "Iowa State",
+    "sp_plus_2026": 1.0,
+    "elo_2025": 1629,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.4157
+  },
+  {
+    "team": "Mississippi State",
+    "sp_plus_2026": 3.9,
+    "elo_2025": 1468,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.4134
+  },
+  {
+    "team": "Kentucky",
+    "sp_plus_2026": 3.8,
+    "elo_2025": 1465,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.4121
+  },
+  {
+    "team": "Wisconsin",
+    "sp_plus_2026": 1.8,
+    "elo_2025": 1502,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.4018
+  },
+  {
+    "team": "Maryland",
+    "sp_plus_2026": 3.8,
+    "elo_2025": 1387,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3996
+  },
+  {
+    "team": "South Florida",
+    "sp_plus_2026": -2.8,
+    "elo_2025": 1774,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3984
+  },
+  {
+    "team": "Navy",
+    "sp_plus_2026": 1.1,
+    "elo_2025": 1575,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3982
+  },
+  {
+    "team": "UCF",
+    "sp_plus_2026": 2.3,
+    "elo_2025": 1448,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3972
+  },
+  {
+    "team": "Rutgers",
+    "sp_plus_2026": 1.8,
+    "elo_2025": 1469,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3965
+  },
+  {
+    "team": "UCLA",
+    "sp_plus_2026": 5.1,
+    "elo_2025": 1322,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3949
+  },
+  {
+    "team": "California",
+    "sp_plus_2026": 3.7,
+    "elo_2025": 1360,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3945
+  },
+  {
+    "team": "UTSA",
+    "sp_plus_2026": -1.5,
+    "elo_2025": 1668,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.392
+  },
+  {
+    "team": "North Carolina",
+    "sp_plus_2026": 3.8,
+    "elo_2025": 1320,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3889
+  },
+  {
+    "team": "Oklahoma State",
+    "sp_plus_2026": 7.1,
+    "elo_2025": 1110,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.382
+  },
+  {
+    "team": "East Carolina",
+    "sp_plus_2026": -2.0,
+    "elo_2025": 1593,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3758
+  },
+  {
+    "team": "Memphis",
+    "sp_plus_2026": -1.1,
+    "elo_2025": 1540,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3747
+  },
+  {
+    "team": "New Mexico",
+    "sp_plus_2026": -0.5,
+    "elo_2025": 1494,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3722
+  },
+  {
+    "team": "San Diego State",
+    "sp_plus_2026": -1.3,
+    "elo_2025": 1528,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3711
+  },
+  {
+    "team": "Michigan State",
+    "sp_plus_2026": 0.4,
+    "elo_2025": 1409,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3706
+  },
+  {
+    "team": "Colorado",
+    "sp_plus_2026": 0.9,
+    "elo_2025": 1344,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3691
+  },
+  {
+    "team": "Army",
+    "sp_plus_2026": -3.0,
+    "elo_2025": 1589,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3671
+  },
+  {
+    "team": "Fresno State",
+    "sp_plus_2026": -2.3,
+    "elo_2025": 1548,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3662
+  },
+  {
+    "team": "West Virginia",
+    "sp_plus_2026": 0.8,
+    "elo_2025": 1291,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3598
+  },
+  {
+    "team": "Old Dominion",
+    "sp_plus_2026": -5.8,
+    "elo_2025": 1670,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3573
+  },
+  {
+    "team": "Boston College",
+    "sp_plus_2026": -1.5,
+    "elo_2025": 1359,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.352
+  },
+  {
+    "team": "Texas State",
+    "sp_plus_2026": -5.9,
+    "elo_2025": 1606,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3462
+  },
+  {
+    "team": "Tulane",
+    "sp_plus_2026": -5.5,
+    "elo_2025": 1583,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3457
+  },
+  {
+    "team": "Stanford",
+    "sp_plus_2026": -1.9,
+    "elo_2025": 1335,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3448
+  },
+  {
+    "team": "Washington State",
+    "sp_plus_2026": -5.3,
+    "elo_2025": 1549,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3419
+  },
+  {
+    "team": "Air Force",
+    "sp_plus_2026": -2.4,
+    "elo_2025": 1386,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3393
+  },
+  {
+    "team": "Hawai'i",
+    "sp_plus_2026": -3.9,
+    "elo_2025": 1459,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3389
+  },
+  {
+    "team": "Miami (OH)",
+    "sp_plus_2026": -2.9,
+    "elo_2025": 1400,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3375
+  },
+  {
+    "team": "Syracuse",
+    "sp_plus_2026": -0.7,
+    "elo_2025": 1182,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3301
+  },
+  {
+    "team": "North Dakota State",
+    "sp_plus_2026": -1.4,
+    "elo_2025": null,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3261
+  },
+  {
+    "team": "Western Michigan",
+    "sp_plus_2026": -7.2,
+    "elo_2025": 1546,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3259
+  },
+  {
+    "team": "Marshall",
+    "sp_plus_2026": -6.4,
+    "elo_2025": 1468,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3199
+  },
+  {
+    "team": "Purdue",
+    "sp_plus_2026": -2.9,
+    "elo_2025": 1227,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3194
+  },
+  {
+    "team": "Western Kentucky",
+    "sp_plus_2026": -5.3,
+    "elo_2025": 1408,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3193
+  },
+  {
+    "team": "Liberty",
+    "sp_plus_2026": -6.4,
+    "elo_2025": 1441,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3156
+  },
+  {
+    "team": "North Texas",
+    "sp_plus_2026": -11.8,
+    "elo_2025": 1709,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3147
+  },
+  {
+    "team": "UConn",
+    "sp_plus_2026": null,
+    "elo_2025": 1477,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3144
+  },
+  {
+    "team": "Jacksonville State",
+    "sp_plus_2026": -7.7,
+    "elo_2025": 1491,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.313
+  },
+  {
+    "team": "Troy",
+    "sp_plus_2026": -6.0,
+    "elo_2025": 1384,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3097
+  },
+  {
+    "team": "Toledo",
+    "sp_plus_2026": -11.5,
+    "elo_2025": 1646,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.307
+  },
+  {
+    "team": "Utah State",
+    "sp_plus_2026": -7.7,
+    "elo_2025": 1446,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.3058
+  },
+  {
+    "team": "Louisiana Tech",
+    "sp_plus_2026": -8.3,
+    "elo_2025": 1431,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.2985
+  },
+  {
+    "team": "Ohio",
+    "sp_plus_2026": -13.6,
+    "elo_2025": 1584,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.2799
+  },
+  {
+    "team": "Arkansas State",
+    "sp_plus_2026": -8.5,
+    "elo_2025": 1317,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.2786
+  },
+  {
+    "team": "Louisiana",
+    "sp_plus_2026": -9.1,
+    "elo_2025": 1334,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.2764
+  },
+  {
+    "team": "Georgia Southern",
+    "sp_plus_2026": -8.9,
+    "elo_2025": 1314,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.2749
+  },
+  {
+    "team": "Kennesaw State",
+    "sp_plus_2026": -9.3,
+    "elo_2025": 1310,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.271
+  },
+  {
+    "team": "Oregon State",
+    "sp_plus_2026": -6.3,
+    "elo_2025": 1150,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.2697
+  },
+  {
+    "team": "Florida Atlantic",
+    "sp_plus_2026": -7.1,
+    "elo_2025": 1178,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.2677
+  },
+  {
+    "team": "Wyoming",
+    "sp_plus_2026": -9.6,
+    "elo_2025": 1295,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.2661
+  },
+  {
+    "team": "Temple",
+    "sp_plus_2026": -8.7,
+    "elo_2025": 1219,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.2612
+  },
+  {
+    "team": "Colorado State",
+    "sp_plus_2026": -8.3,
+    "elo_2025": 1155,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.2542
+  },
+  {
+    "team": "Tulsa",
+    "sp_plus_2026": -7.6,
+    "elo_2025": 1110,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.2527
+  },
+  {
+    "team": "Florida International",
+    "sp_plus_2026": null,
+    "elo_2025": 1324,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.2486
+  },
+  {
+    "team": "Delaware",
+    "sp_plus_2026": -13.0,
+    "elo_2025": 1356,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.2482
+  },
+  {
+    "team": "Buffalo",
+    "sp_plus_2026": -11.9,
+    "elo_2025": 1298,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.2479
+  },
+  {
+    "team": "South Alabama",
+    "sp_plus_2026": -13.3,
+    "elo_2025": 1336,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.2426
+  },
+  {
+    "team": "Nevada",
+    "sp_plus_2026": -12.2,
+    "elo_2025": 1277,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.242
+  },
+  {
+    "team": "Central Michigan",
+    "sp_plus_2026": -12.4,
+    "elo_2025": 1232,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.2332
+  },
+  {
+    "team": "Bowling Green",
+    "sp_plus_2026": -13.3,
+    "elo_2025": 1260,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.2304
+  },
+  {
+    "team": "Connecticut",
+    "sp_plus_2026": -11.2,
+    "elo_2025": null,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.2191
+  },
+  {
+    "team": "Eastern Michigan",
+    "sp_plus_2026": -15.0,
+    "elo_2025": 1239,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.2131
+  },
+  {
+    "team": "Coastal Carolina",
+    "sp_plus_2026": -13.8,
+    "elo_2025": 1163,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.2107
+  },
+  {
+    "team": "Appalachian State",
+    "sp_plus_2026": -12.1,
+    "elo_2025": null,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.2093
+  },
+  {
+    "team": "App State",
+    "sp_plus_2026": null,
+    "elo_2025": 1216,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.2021
+  },
+  {
+    "team": "Missouri State",
+    "sp_plus_2026": -18.7,
+    "elo_2025": 1328,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.1973
+  },
+  {
+    "team": "San Jos\u00e9 State",
+    "sp_plus_2026": -15.5,
+    "elo_2025": 1146,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.1941
+  },
+  {
+    "team": "FIU",
+    "sp_plus_2026": -13.7,
+    "elo_2025": null,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.1918
+  },
+  {
+    "team": "New Mexico State",
+    "sp_plus_2026": -16.4,
+    "elo_2025": 1172,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.191
+  },
+  {
+    "team": "Northern Illinois",
+    "sp_plus_2026": -18.2,
+    "elo_2025": 1233,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.1861
+  },
+  {
+    "team": "Rice",
+    "sp_plus_2026": -14.7,
+    "elo_2025": 1044,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.1843
+  },
+  {
+    "team": "UAB",
+    "sp_plus_2026": -18.1,
+    "elo_2025": 1184,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.1791
+  },
+  {
+    "team": "Akron",
+    "sp_plus_2026": -19.5,
+    "elo_2025": 1101,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.1543
+  },
+  {
+    "team": "UTEP",
+    "sp_plus_2026": -20.5,
+    "elo_2025": 1135,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.1516
+  },
+  {
+    "team": "Southern Miss",
+    "sp_plus_2026": -23.3,
+    "elo_2025": 1275,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.1513
+  },
+  {
+    "team": "Kent State",
+    "sp_plus_2026": -20.1,
+    "elo_2025": 1001,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.1334
+  },
+  {
+    "team": "Middle Tennessee",
+    "sp_plus_2026": -26.0,
+    "elo_2025": 1164,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.1115
+  },
+  {
+    "team": "Georgia State",
+    "sp_plus_2026": -25.1,
+    "elo_2025": 1112,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.1105
+  },
+  {
+    "team": "UL Monroe",
+    "sp_plus_2026": -24.3,
+    "elo_2025": 1016,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.1016
+  },
+  {
+    "team": "Sacramento State",
+    "sp_plus_2026": -22.7,
+    "elo_2025": null,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.0936
+  },
+  {
+    "team": "Ball State",
+    "sp_plus_2026": -25.2,
+    "elo_2025": 1010,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.0933
+  },
+  {
+    "team": "Sam Houston",
+    "sp_plus_2026": -26.3,
+    "elo_2025": 994,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.0818
+  },
+  {
+    "team": "Charlotte",
+    "sp_plus_2026": -32.4,
+    "elo_2025": 1023,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.0368
+  },
+  {
+    "team": "Massachusetts",
+    "sp_plus_2026": -30.9,
+    "elo_2025": 718,
+    "odds_2026": null,
+    "source": "fbs_2026_model",
+    "composite_score": 0.0
+  }
+]

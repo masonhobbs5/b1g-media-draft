@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.coverage
+htmlcov/
+
+# Environment / secrets
+.env
+
+# Data directories (raw/cache are not committed)
+data/cache/
+data/raw/
+
+# macOS
+.DS_Store
+
+# Editor
+.idea/
+.vscode/

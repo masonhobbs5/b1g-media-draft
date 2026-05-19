@@ -15,8 +15,8 @@ A Streamlit dashboard visualizes all three artifacts without re-running any comp
 ### 1. Clone and set up the environment
 
 ```bash
-git clone https://github.com/yourname/b1g_sim.git
-cd b1g_sim
+git clone https://github.com/masonhobbs5/b1g-media-draft.git
+cd b1g-media-draft
 
 python3.11 -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate

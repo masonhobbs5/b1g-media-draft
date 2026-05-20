@@ -7,7 +7,7 @@ Uses a Bradley-Terry / Elo-style formulation:
     P(home wins) = 1 / (1 + 10^((away_strength - home_strength - hfa) / scale))
 
 Where:
-    - strength values are composite_score from team_strength.json (0-1 scale)
+    - strength values are composite_score from fbs_strength.json (0-1 scale)
     - hfa is the home-field advantage expressed on the same scale
     - scale controls the sensitivity (calibrated so that a 1.0 gap ≈ 99% prob)
 """
@@ -40,24 +40,13 @@ FCS_DEFAULT_STRENGTH = 0.05
 
 def _load_full_strength_lookup() -> dict[str, float]:
     """
-    Load composite_score for all teams (B1G + non-B1G FBS).
-
-    Prefers the unified fbs_strength.json. Falls back to team_strength.json
-    (B1G only) if the FBS file doesn't exist yet.
+    Load composite_score for all teams (B1G + non-B1G FBS) from fbs_strength.json.
     """
     fbs_path = PROCESSED_DIR / "fbs_strength.json"
     if fbs_path.exists():
         with open(fbs_path) as f:
             teams = json.load(f)
         return {t["team"]: t["composite_score"] for t in teams}
-
-    # Fallback: B1G only
-    ts_path = PROCESSED_DIR / "team_strength.json"
-    if ts_path.exists():
-        with open(ts_path) as f:
-            teams = json.load(f)
-        return {t["team"]: t["composite_score"] for t in teams}
-
     return {}
 
 
@@ -80,16 +69,10 @@ def _load_hfa_on_composite_scale() -> float:
 
     # Load FBS strength to get the actual Elo range across all teams
     fbs_path = PROCESSED_DIR / "fbs_strength.json"
-    ts_path = PROCESSED_DIR / "team_strength.json"
-
     if fbs_path.exists():
         with open(fbs_path) as f:
             teams = json.load(f)
         elos = [t["elo_2025"] for t in teams if t.get("elo_2025")]
-    elif ts_path.exists():
-        with open(ts_path) as f:
-            teams = json.load(f)
-        elos = [t["elo_2025_raw"] for t in teams]
     else:
         return 0.10
 

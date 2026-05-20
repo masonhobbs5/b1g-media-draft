@@ -32,6 +32,7 @@ from config.constants import TEAM_META, BIG_TEN_TEAMS
 from src.acquisition.cfbd_client import fetch_schedule
 from src.acquisition.odds_client import fetch_prestige_scores
 from src.acquisition.smw_scraper import build_viewership_pairs
+from src.model.features import build_derived_features
 
 logging.basicConfig(
     level=logging.INFO,
@@ -182,6 +183,11 @@ def main() -> None:
         logger.info("Built viewership_pairs.json (%d game records)", len(pairs))
     else:
         logger.info("Skipping SMW scrape (--skip-smw flag set).")
+
+    # ── Dataset 3: Derived viewership features ───────────────────────────────
+    logger.info("=== DATASET 3: Derived Viewership Features ===")
+    build_derived_features()
+    logger.info("Rebuilt viewership_features.json.")
 
     logger.info("=== Acquisition complete. Run tests/unit/ to validate output. ===")
 

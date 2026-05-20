@@ -21,134 +21,134 @@
   },
   "weekly_viewers_by_network": {
     "FOX": {
-      "2": 3.271,
-      "3": 2.115,
-      "4": 3.69,
-      "5": 4.205,
-      "6": 3.798,
-      "7": 4.775,
-      "8": 3.234,
-      "9": 2.03,
-      "10": 4.46,
-      "11": 3.652,
-      "12": 2.96,
-      "13": 6.701,
-      "1": 2.99
+      "2": 3.463,
+      "3": 2.868,
+      "4": 4.39,
+      "5": 5.341,
+      "6": 4.494,
+      "7": 8.111,
+      "8": 3.841,
+      "9": 2.8,
+      "10": 5.431,
+      "11": 3.988,
+      "12": 3.5,
+      "13": 7.058,
+      "1": 3.351
     },
     "CBS": {
-      "2": 2.656,
-      "3": 1.947,
-      "4": 4.007,
-      "5": 4.292,
-      "6": 3.367,
-      "7": 3.042,
-      "8": 2.536,
-      "9": 3.939,
-      "10": 4.1,
-      "11": 3.792,
-      "12": 3.13,
-      "13": 4.442,
-      "1": 2.954
+      "2": 3.017,
+      "3": 2.665,
+      "4": 4.532,
+      "5": 4.954,
+      "6": 3.919,
+      "7": 5.097,
+      "8": 3.128,
+      "9": 5.35,
+      "10": 4.578,
+      "11": 3.991,
+      "12": 3.401,
+      "13": 4.402,
+      "1": 3.271
     },
     "NBC": {
-      "2": 2.979,
+      "2": 3.299,
       "3": 0.0,
-      "4": 3.818,
-      "5": 4.174,
-      "6": 3.434,
-      "7": 6.042,
-      "8": 2.83,
-      "9": 3.091,
+      "4": 4.562,
+      "5": 4.876,
+      "6": 4.008,
+      "7": 5.106,
+      "8": 4.221,
+      "9": 4.253,
       "10": 0.0,
-      "11": 3.98,
+      "11": 4.198,
       "12": 0.0,
-      "13": 4.679,
+      "13": 4.74,
       "1": 0.0
     }
   },
   "season_totals": {
-    "FOX": 47.881,
-    "CBS": 44.204,
-    "NBC": 35.027
+    "FOX": 58.636,
+    "CBS": 52.305,
+    "NBC": 39.263
   },
   "week_draft_prediction": [
     {
       "pick": 1,
       "network": "FOX",
       "most_likely_week": 13,
-      "probability": 0.9715
+      "probability": 0.9523
     },
     {
       "pick": 2,
       "network": "FOX",
       "most_likely_week": 10,
-      "probability": 0.8159
+      "probability": 0.766
     },
     {
       "pick": 3,
       "network": "FOX",
       "most_likely_week": 5,
-      "probability": 0.5518
+      "probability": 0.6746
     },
     {
       "pick": 4,
       "network": "CBS",
       "most_likely_week": 9,
-      "probability": 0.7211
+      "probability": 0.7235
     },
     {
       "pick": 5,
       "network": "FOX",
-      "most_likely_week": 8,
-      "probability": 0.4042
+      "most_likely_week": 7,
+      "probability": 0.6961
     },
     {
       "pick": 6,
       "network": "NBC",
-      "most_likely_week": 2,
-      "probability": 0.4534
+      "most_likely_week": 8,
+      "probability": 0.8756
     },
     {
       "pick": 7,
       "network": "CBS",
       "most_likely_week": 6,
-      "probability": 0.508
+      "probability": 0.5956
     },
     {
       "pick": 8,
       "network": "FOX",
       "most_likely_week": 12,
-      "probability": 0.654
+      "probability": 0.5515
     },
     {
       "pick": 9,
       "network": "NBC",
-      "most_likely_week": 7,
-      "probability": 0.7707
+      "most_likely_week": 2,
+      "probability": 0.509
     },
     {
       "pick": 10,
       "network": "NBC",
       "most_likely_week": 11,
-      "probability": 0.6419
+      "probability": 0.5839
     },
     {
       "pick": 11,
       "network": "CBS",
-      "most_likely_week": 4,
-      "probability": 0.2528
+      "most_likely_week": 3,
+      "probability": 0.3497
     },
     {
       "pick": 12,
       "network": "FOX",
-      "most_likely_week": 4,
-      "probability": 0.343
+      "most_likely_week": 3,
+      "probability": 0.3929
     },
     {
       "pick": 13,
       "network": "NBC",
       "most_likely_week": 4,
-      "probability": 0.0281
+      "probability": 0.2258
     }
   ],
   "predicted_schedule": [
@@ -161,16 +161,16 @@
         {
           "network": "FOX",
           "game_id": "401858428",
-          "probability": 0.0785,
-          "predicted_viewers": 4.419,
+          "probability": 0.0661,
+          "predicted_viewers": 4.596,
           "home_team": "Michigan",
           "away_team": "Western Michigan"
         },
         {
           "network": "CBS",
           "game_id": "401858425",
-          "probability": 0.058,
-          "predicted_viewers": 4.364,
+          "probability": 0.0464,
+          "predicted_viewers": 4.251,
           "home_team": "Indiana",
           "away_team": "North Texas"
         }
@@ -179,86 +179,86 @@
     {
       "week": 2,
       "drafted_by": "NBC",
-      "draft_pick": 6,
+      "draft_pick": 9,
       "nd_week": false,
       "games": [
         {
           "network": "NBC",
           "game_id": "401856679",
-          "probability": 0.2194,
-          "predicted_viewers": 6.223,
+          "probability": 0.226,
+          "predicted_viewers": 5.894,
           "home_team": "Michigan",
           "away_team": "Oklahoma"
         },
         {
           "network": "FOX",
           "game_id": "401858439",
-          "probability": 0.1514,
-          "predicted_viewers": 3.473,
+          "probability": 0.1568,
+          "predicted_viewers": 3.597,
           "home_team": "Indiana",
           "away_team": "Howard"
         },
         {
           "network": "CBS",
-          "game_id": "401856788",
-          "probability": 0.0905,
-          "predicted_viewers": 2.794,
-          "home_team": "Iowa",
-          "away_team": "Iowa State"
+          "game_id": "401858445",
+          "probability": 0.1303,
+          "predicted_viewers": 3.113,
+          "home_team": "USC",
+          "away_team": "Louisiana"
         }
       ]
     },
     {
       "week": 3,
-      "drafted_by": "NBC",
-      "draft_pick": 13,
+      "drafted_by": "CBS",
+      "draft_pick": 11,
       "nd_week": true,
       "games": [
         {
-          "network": "FOX",
+          "network": "CBS",
           "game_id": "401858454",
-          "probability": 0.0701,
-          "predicted_viewers": 2.926,
+          "probability": 0.0887,
+          "predicted_viewers": 3.83,
           "home_team": "Ohio State",
           "away_team": "Kent State"
         },
         {
-          "network": "CBS",
-          "game_id": "401858449",
-          "probability": 0.0561,
-          "predicted_viewers": 2.847,
-          "home_team": "Indiana",
-          "away_team": "Western Kentucky"
+          "network": "FOX",
+          "game_id": "401858456",
+          "probability": 0.0618,
+          "predicted_viewers": 3.253,
+          "home_team": "Penn State",
+          "away_team": "Buffalo"
         }
       ]
     },
     {
       "week": 4,
-      "drafted_by": "CBS",
-      "draft_pick": 11,
+      "drafted_by": "NBC",
+      "draft_pick": 13,
       "nd_week": false,
       "games": [
         {
-          "network": "CBS",
+          "network": "NBC",
           "game_id": "401858463",
-          "probability": 0.1271,
-          "predicted_viewers": 5.66,
+          "probability": 0.1751,
+          "predicted_viewers": 5.908,
           "home_team": "Michigan",
           "away_team": "Iowa"
         },
         {
           "network": "FOX",
           "game_id": "401858465",
-          "probability": 0.2517,
-          "predicted_viewers": 4.574,
+          "probability": 0.2623,
+          "predicted_viewers": 5.598,
           "home_team": "Ohio State",
           "away_team": "Illinois"
         },
         {
-          "network": "NBC",
+          "network": "CBS",
           "game_id": "401858469",
-          "probability": 0.1824,
-          "predicted_viewers": 5.598,
+          "probability": 0.3187,
+          "predicted_viewers": 5.813,
           "home_team": "USC",
           "away_team": "Oregon"
         }
@@ -273,24 +273,24 @@
         {
           "network": "FOX",
           "game_id": "401858473",
-          "probability": 0.3337,
-          "predicted_viewers": 7.232,
+          "probability": 0.3467,
+          "predicted_viewers": 9.249,
           "home_team": "Iowa",
           "away_team": "Ohio State"
         },
         {
           "network": "NBC",
           "game_id": "401858478",
-          "probability": 0.1851,
-          "predicted_viewers": 6.085,
+          "probability": 0.1673,
+          "predicted_viewers": 5.788,
           "home_team": "USC",
           "away_team": "Washington"
         },
         {
           "network": "CBS",
           "game_id": "401858474",
-          "probability": 0.131,
-          "predicted_viewers": 3.519,
+          "probability": 0.1199,
+          "predicted_viewers": 3.987,
           "home_team": "Minnesota",
           "away_team": "Michigan"
         }
@@ -305,56 +305,56 @@
         {
           "network": "CBS",
           "game_id": "401858485",
-          "probability": 0.1562,
-          "predicted_viewers": 6.613,
+          "probability": 0.1681,
+          "predicted_viewers": 7.024,
           "home_team": "Penn State",
           "away_team": "USC"
         },
         {
           "network": "FOX",
-          "game_id": "401858481",
-          "probability": 0.2171,
-          "predicted_viewers": 4.044,
-          "home_team": "Nebraska",
-          "away_team": "Indiana"
+          "game_id": "401858483",
+          "probability": 0.2719,
+          "predicted_viewers": 4.499,
+          "home_team": "Ohio State",
+          "away_team": "Maryland"
         },
         {
           "network": "NBC",
-          "game_id": "401858487",
-          "probability": 0.141,
-          "predicted_viewers": 3.865,
-          "home_team": "Washington",
-          "away_team": "Iowa"
+          "game_id": "401858481",
+          "probability": 0.1518,
+          "predicted_viewers": 4.331,
+          "home_team": "Nebraska",
+          "away_team": "Indiana"
         }
       ]
     },
     {
       "week": 7,
-      "drafted_by": "NBC",
-      "draft_pick": 9,
+      "drafted_by": "FOX",
+      "draft_pick": 5,
       "nd_week": false,
       "games": [
         {
-          "network": "NBC",
+          "network": "FOX",
           "game_id": "401858488",
-          "probability": 0.5955,
-          "predicted_viewers": 8.083,
+          "probability": 0.5562,
+          "predicted_viewers": 11.294,
           "home_team": "Indiana",
           "away_team": "Ohio State"
         },
         {
-          "network": "FOX",
+          "network": "CBS",
           "game_id": "401858490",
-          "probability": 0.3585,
-          "predicted_viewers": 6.7,
+          "probability": 0.1628,
+          "predicted_viewers": 7.166,
           "home_team": "Michigan",
           "away_team": "Penn State"
         },
         {
-          "network": "CBS",
+          "network": "NBC",
           "game_id": "401858492",
-          "probability": 0.3196,
-          "predicted_viewers": 3.334,
+          "probability": 0.1542,
+          "predicted_viewers": 3.674,
           "home_team": "Oregon",
           "away_team": "Nebraska"
         }
@@ -362,31 +362,31 @@
     },
     {
       "week": 8,
-      "drafted_by": "FOX",
-      "draft_pick": 5,
+      "drafted_by": "NBC",
+      "draft_pick": 6,
       "nd_week": false,
       "games": [
         {
-          "network": "FOX",
+          "network": "NBC",
           "game_id": "401858496",
-          "probability": 0.3545,
-          "predicted_viewers": 6.002,
+          "probability": 0.4041,
+          "predicted_viewers": 6.763,
           "home_team": "Michigan",
           "away_team": "Indiana"
         },
         {
-          "network": "CBS",
+          "network": "FOX",
           "game_id": "401858500",
-          "probability": 0.1563,
-          "predicted_viewers": 2.709,
+          "probability": 0.1426,
+          "predicted_viewers": 3.316,
           "home_team": "Wisconsin",
           "away_team": "USC"
         },
         {
-          "network": "NBC",
+          "network": "CBS",
           "game_id": "401858495",
-          "probability": 0.1677,
-          "predicted_viewers": 2.072,
+          "probability": 0.1812,
+          "predicted_viewers": 2.776,
           "home_team": "Illinois",
           "away_team": "Oregon"
         }
@@ -401,26 +401,26 @@
         {
           "network": "CBS",
           "game_id": "401858509",
-          "probability": 0.3809,
-          "predicted_viewers": 7.242,
+          "probability": 0.3937,
+          "predicted_viewers": 9.396,
           "home_team": "USC",
           "away_team": "Ohio State"
         },
         {
           "network": "FOX",
           "game_id": "401858501",
-          "probability": 0.2546,
-          "predicted_viewers": 2.763,
+          "probability": 0.2418,
+          "predicted_viewers": 3.269,
           "home_team": "Indiana",
           "away_team": "Minnesota"
         },
         {
           "network": "NBC",
-          "game_id": "401858504",
-          "probability": 0.0876,
-          "predicted_viewers": 2.475,
-          "home_team": "Nebraska",
-          "away_team": "Washington"
+          "game_id": "401858507",
+          "probability": 0.1222,
+          "predicted_viewers": 3.198,
+          "home_team": "Rutgers",
+          "away_team": "Michigan"
         }
       ]
     },
@@ -433,16 +433,16 @@
         {
           "network": "FOX",
           "game_id": "401858514",
-          "probability": 0.3717,
-          "predicted_viewers": 8.356,
+          "probability": 0.3937,
+          "predicted_viewers": 9.774,
           "home_team": "Ohio State",
           "away_team": "Oregon"
         },
         {
           "network": "CBS",
           "game_id": "401858516",
-          "probability": 0.2153,
-          "predicted_viewers": 5.558,
+          "probability": 0.1992,
+          "predicted_viewers": 5.024,
           "home_team": "Washington",
           "away_team": "Penn State"
         }
@@ -457,24 +457,24 @@
         {
           "network": "NBC",
           "game_id": "401858518",
-          "probability": 0.2586,
-          "predicted_viewers": 5.885,
+          "probability": 0.2737,
+          "predicted_viewers": 5.702,
           "home_team": "Indiana",
           "away_team": "USC"
         },
         {
           "network": "FOX",
           "game_id": "401858522",
-          "probability": 0.2535,
-          "predicted_viewers": 4.166,
+          "probability": 0.2653,
+          "predicted_viewers": 4.547,
           "home_team": "Ohio State",
           "away_team": "Northwestern"
         },
         {
           "network": "CBS",
           "game_id": "401858523",
-          "probability": 0.3304,
-          "predicted_viewers": 5.475,
+          "probability": 0.33,
+          "predicted_viewers": 5.257,
           "home_team": "Oregon",
           "away_team": "Michigan"
         }
@@ -489,16 +489,16 @@
         {
           "network": "FOX",
           "game_id": "401858531",
-          "probability": 0.3197,
-          "predicted_viewers": 5.474,
+          "probability": 0.3146,
+          "predicted_viewers": 5.866,
           "home_team": "Nebraska",
           "away_team": "Ohio State"
         },
         {
           "network": "CBS",
           "game_id": "401858535",
-          "probability": 0.3116,
-          "predicted_viewers": 4.215,
+          "probability": 0.273,
+          "predicted_viewers": 3.765,
           "home_team": "Washington",
           "away_team": "Indiana"
         }
@@ -513,16 +513,16 @@
         {
           "network": "FOX",
           "game_id": "401858540",
-          "probability": 0.5323,
-          "predicted_viewers": 10.0,
+          "probability": 0.5304,
+          "predicted_viewers": 10.753,
           "home_team": "Ohio State",
           "away_team": "Michigan"
         },
         {
           "network": "NBC",
           "game_id": "401858541",
-          "probability": 0.2001,
-          "predicted_viewers": 5.037,
+          "probability": 0.1989,
+          "predicted_viewers": 4.419,
           "home_team": "Oregon",
           "away_team": "Washington"
         },
@@ -530,7 +530,7 @@
           "network": "CBS",
           "game_id": "401858536",
           "probability": 0.1017,
-          "predicted_viewers": 3.929,
+          "predicted_viewers": 3.754,
           "home_team": "Iowa",
           "away_team": "Nebraska"
         }
@@ -538,8 +538,8 @@
     }
   ],
   "predicted_season_totals": {
-    "FOX": 70.129,
-    "CBS": 58.259,
-    "NBC": 52.804
+    "FOX": 79.611,
+    "CBS": 65.156,
+    "NBC": 54.51
   }
 }

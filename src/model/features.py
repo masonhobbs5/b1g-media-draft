@@ -269,6 +269,15 @@ def build_training_features(
         is_rivalry = _is_rivalry(team_a, team_b)
         is_conf = r.is_conference_game
 
+        # Network tier (broadcast reach signal)
+        net_tier = NETWORK_TIERS.get(r.network, 0)
+
+        # Late-season flag (weeks 10+ have conference championship implications)
+        late_season = int((r.week or 0) >= 10)
+
+        # Brand × Elo interaction (top brands with high Elo draw outsized audiences)
+        brand_x_elo = combined_brand * avg_elo / 1500.0
+
         row = {
             "season": r.season,
             "week": r.week,
@@ -286,6 +295,9 @@ def build_training_features(
             "slot_multiplier": sl_mult,
             "is_rivalry": int(is_rivalry),
             "is_conference_game": int(is_conf),
+            "network_tier": net_tier,
+            "late_season": late_season,
+            "brand_x_elo": brand_x_elo,
             # ── Target ──
             "viewers_millions": r.viewers_millions,
         }
@@ -369,6 +381,16 @@ def build_2026_features(
         is_cfp_rematch = _is_cfp_rematch(home, away)
         is_conf = game.get("is_conference_game", False)
 
+        # Network tier: 2026 games are predicted for the draft pool (FOX/CBS/NBC)
+        # so we assume major-network broadcast reach (tier 3).
+        net_tier = 3
+
+        # Late-season flag
+        late_season = int(week >= 10)
+
+        # Brand × Elo interaction
+        brand_x_elo = combined_brand * avg_elo / 1500.0
+
         row = {
             "game_id": game["game_id"],
             "week": week,
@@ -385,6 +407,9 @@ def build_2026_features(
             "slot_multiplier": sl_mult,
             "is_rivalry": int(is_rivalry),
             "is_conference_game": int(is_conf),
+            "network_tier": net_tier,
+            "late_season": late_season,
+            "brand_x_elo": brand_x_elo,
             # ── Extra context for downstream use ──
             "is_cfp_rematch": int(is_cfp_rematch),
             "home_strength": strength_lookup.get(home, 0.05),
@@ -399,6 +424,14 @@ def build_2026_features(
     return rows
 
 
+# Network tier mapping: broadcast reach correlates with viewership
+NETWORK_TIERS: dict[str, int] = {
+    "FOX": 3, "CBS": 3, "NBC": 3,
+    "ABC": 2, "ESPN": 2,
+    "FS1": 1,
+    "BTN": 0, "ESPNU": 0, "ESPN2": 0, "Peacock": 0, "CW": 0,
+}
+
 # Column names used as model inputs (shared between training and scoring)
 FEATURE_COLUMNS = [
     "combined_brand",
@@ -409,4 +442,7 @@ FEATURE_COLUMNS = [
     "slot_multiplier",
     "is_rivalry",
     "is_conference_game",
+    "network_tier",
+    "late_season",
+    "brand_x_elo",
 ]

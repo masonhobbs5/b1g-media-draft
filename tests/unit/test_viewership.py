@@ -159,7 +159,7 @@ class TestViewershipModel:
         for fold in cv["folds"]:
             assert "held_out_season" in fold
             assert "r_squared" in fold
-            assert "mape" in fold
+            assert "mdape" in fold
             assert fold["n_test"] > 0
 
     def test_predictions_are_positive(self, model_result):

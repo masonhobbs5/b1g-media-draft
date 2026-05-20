@@ -87,7 +87,7 @@ data/processed/          ← committed, ready to use
   export_records()               Artifact 1 — expected_records.json/.csv
           │
           ▼
-  build_viewership_predictions() Ridge regression (α=10), leave-one-season-out CV
+  build_viewership_predictions() Log-linear Ridge (α=50), leave-one-season-out CV
           │
           ▼
   export_viewership()            Artifact 2 — expected_viewership.json/.csv
@@ -238,7 +238,7 @@ Home-field advantage calibrated from 432 historical B1G-involved games (2023–2
 
 ### Viewership model
 
-Ridge regression (α = 10) with `StandardScaler`. Features: combined brand rating, max brand, combined Elo, Elo closeness, week multiplier, slot multiplier, rivalry flag, conference game flag. Leave-one-season-out CV: **R² = 0.43, RMSE = 2.36M viewers**.
+Log-linear Ridge regression (α = 50) with `StandardScaler`. Predicts `log(viewers)` and exponentiates with Duan's smearing correction. Features: combined brand rating, max brand, combined Elo, Elo closeness, week multiplier, slot multiplier, rivalry flag, conference game flag, network tier (broadcast reach), late-season flag (week ≥ 10), brand × Elo interaction. Training excludes sub-0.5M streaming/BTN games. Leave-one-season-out CV: **R² = 0.62, RMSE = 1.96M viewers, MdAPE = 34%**.
 
 ### Draft simulation
 
